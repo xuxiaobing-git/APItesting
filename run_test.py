@@ -45,6 +45,6 @@ with open(report_file_path,"wb") as fb:
 
     runner.run(suite)
 
-log.info('----------本次所有用例执行完毕---------------------')
+log.info('----------本次所有用例执行完毕---------------------OK')
 
 
